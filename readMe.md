@@ -1,4 +1,4 @@
-![img](/asstets/Screenshot%202025-11-26%20152038.png)
+![img](./asstets/Screenshot%202025-11-26%20152038.png)
 # Secure The Vault 🔐
 
 A fun, beginner-friendly security awareness game where you play as the defender protecting a digital vault from cyber threats.  
